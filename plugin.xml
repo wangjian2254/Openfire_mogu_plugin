@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <!-- Main plugin class  这里是最重要滴，就是你的插件的全路径-->
+    <class>com.mogu.webplugin.WebServerLogin</class>
+    
+    <!-- Plugin meta-data -->
+    <name>WebServerLogin</name>
+    <description>为蘑菇服务提供单点登录功能</description>
+    <author>王健</author>
+    
+    <version>1.0</version>
+    <date>03/09/2013</date>
+    <url>http://localhost:9090/openfire/plugins.jsp</url>
+    <minServerVersion>3.8.0</minServerVersion>
+    <licenseType>gpl</licenseType>
+    
+    <adminconsole>    
+    </adminconsole>
+</plugin>
